@@ -1,0 +1,29 @@
+*
+{
+    font-family: 'serif' !important;
+}
+
+h1.name{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: royalblue;
+    color: #fff;
+}
+
+h2 {
+    color: royalblue;
+}
+
+
+h4 {
+    color: grey
+}
+  
+  footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: royalblue;
+    color: #fff;
+  }
